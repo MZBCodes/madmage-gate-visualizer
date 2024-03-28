@@ -1,0 +1,19 @@
+{
+  "name": "madmage-gate-visualizer",
+  "version": "1.0.0",
+  "description": "This is an online visualizer for our DnD Mad Mage Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MZBCodes/madmage-gate-visualizer.git"
+  },
+  "author": "Neil Bolima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MZBCodes/madmage-gate-visualizer/issues"
+  },
+  "homepage": "https://github.com/MZBCodes/madmage-gate-visualizer#readme"
+}
